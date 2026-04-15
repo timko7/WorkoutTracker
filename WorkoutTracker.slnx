@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WorkoutTracker.API/WorkoutTracker.API.csproj" />
+  <Project Path="WorkoutTracker.Application/WorkoutTracker.Application.csproj" />
+  <Project Path="WorkoutTracker.Domain/WorkoutTracker.Domain.csproj" />
+  <Project Path="WorkoutTracker.Infrastructure/WorkoutTracker.Infrastructure.csproj" />
+</Solution>
